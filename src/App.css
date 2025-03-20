@@ -1,0 +1,20 @@
+.app-container {
+  text-align: center;
+  font-family: Arial, sans-serif;
+}
+
+textarea {
+  width: 90%;
+  height: 200px;
+  margin: 10px;
+  padding: 10px;
+}
+
+#preview {
+  width: 90%;
+  min-height: 200px;
+  border: 1px solid #ccc;
+  padding: 10px;
+  background-color: #f8f8f8;
+  text-align: left;
+}
